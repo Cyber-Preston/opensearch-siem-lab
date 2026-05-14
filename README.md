@@ -40,7 +40,10 @@ Built a self-hosted SIEM lab using OpenSearch and Docker to ingest, search, and 
 
 
 
-(Add screenshots here)
+## Dashboard Preview
+
+### SOC Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 
 
