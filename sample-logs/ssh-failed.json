@@ -1,0 +1,7 @@
+{ "index": {} }
+{ "timestamp":"2026-05-13T22:00:00","host":"ubuntu-server","event":"Failed password","source_ip":"185.220.101.1","username":"root"}
+{ "index": {} }
+{ "timestamp":"2026-05-13T22:01:00","host":"ubuntu-server","event":"Failed password","source_ip":"45.134.26.8","username":"admin"}
+{ "index": {} }
+{ "timestamp":"2026-05-13T22:02:00","host":"ubuntu-server","event":"Accepted password","source_ip":"192.168.1.50","username":"kai"}
+
