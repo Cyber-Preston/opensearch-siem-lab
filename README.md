@@ -36,9 +36,6 @@ Built a self-hosted SIEM lab using OpenSearch and Docker to ingest, search, and 
 
 
 
-\## Dashboard Preview
-
-
 
 ## Dashboard Preview
 
