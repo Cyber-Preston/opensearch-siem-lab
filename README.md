@@ -45,6 +45,8 @@ Built a self-hosted SIEM lab using OpenSearch and Docker to ingest, search, and 
 ### SOC Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### Threat Hunting in Discover
+![Threat Hunting](screenshots/discover-threat-hunting.png)
 
 
 \## Skills Demonstrated
